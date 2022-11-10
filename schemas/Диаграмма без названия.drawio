@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T13:58:50.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="BKxIAwEr9MRKwMI_TmOj" type="github"><diagram id="2UrDH_4FY--REk0BuRX7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-10T14:05:52.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4ZEB9Go38aXgNjnLrwYb" version="20.5.3" type="github">
+  <diagram id="2UrDH_4FY--REk0BuRX7" name="Страница 1">
+    <mxGraphModel dx="1662" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pyqIdrh5IlIco4k-hzHq-1" value="Администрирование Windows&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pyqIdrh5IlIco4k-hzHq-2" value="Почтовые серверы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="50" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pyqIdrh5IlIco4k-hzHq-3" value="Мониторинг" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="50" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pyqIdrh5IlIco4k-hzHq-4" value="Бэкапы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pyqIdrh5IlIco4k-hzHq-5" value="Железо" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="50" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pyqIdrh5IlIco4k-hzHq-6" value="Сети" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="230" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pyqIdrh5IlIco4k-hzHq-7" value="Базы данных" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="230" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pyqIdrh5IlIco4k-hzHq-8" value="Инвентаризация" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pyqIdrh5IlIco4k-hzHq-9" value="Вэб" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="230" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pyqIdrh5IlIco4k-hzHq-10" value="Python&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pyqIdrh5IlIco4k-hzHq-11" value="Linux" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="395" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pyqIdrh5IlIco4k-hzHq-12" value="Контейнризация" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="385" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
